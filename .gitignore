@@ -1,0 +1,24 @@
+# PyCharm
+.idea/
+
+# Virtualenv
+venv/
+
+# Dist ja exe-tiedostot
+build/
+dist/
+*.exe
+
+
+# Python välimuistit
+__pycache__/
+
+
+# Päivittäinen quote-tiedosto
+daily_quote.txt
+
+
+# Turhat kuvat / projektiversiot
+kommentoitu versio/
+vaihtoehtoiset suomi quotet/
+vanha versio/
